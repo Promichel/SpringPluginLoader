@@ -58,12 +58,6 @@
             <optional>true</optional>
         </dependency>
 
-        <dependency>
-            <groupId>org.reflections</groupId>
-            <artifactId>reflections</artifactId>
-            <version>0.9.10</version>
-        </dependency>
-
         <!-- JarClassLoader -->
         <dependency>
             <groupId>org.xeustechnologies</groupId>
